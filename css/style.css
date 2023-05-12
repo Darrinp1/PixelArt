@@ -1,0 +1,23 @@
+.DG {
+    background-color: darkgreen;
+}
+
+.LG {
+    background-color: lightgreen;
+}
+
+.PK {
+    background-color: pink;
+}
+
+.red {
+    background-color: red;
+}
+
+.black {
+    background-color: black;
+}
+
+.row {
+    min-height: 90px;
+}
